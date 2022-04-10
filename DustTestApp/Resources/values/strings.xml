@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DustTestApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_calculate">Calculate</string>
+    <string name="action_nav_calc">Calculator</string>
+    <string name="action_nav_siltums1">Siltums 1</string>
+    <string name="calc_real_part">Reālā daļa</string>
+    <string name="calc_imaginary_part">Imaginārā daļa</string>
+    <string name="calc_do_math">Rēķināt</string>
+    <string name="calc_clear">Notīrīt</string>
+    <string name="calc_algebric">Algebriskais</string>
+    <string name="calc_exponentional">Eksponenciālais</string>
+</resources>
